@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: #FFE4EF;
+}
+.main{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    height:400px;
+    width:400px;
+    border: none;
+}
+div{
+    height:150px;
+    width:150px;
+    border: 4px solid black;
+    border-radius: 10%;
+    margin:auto;
+}
+.one{
+    background-color: #FF99C8;
+    
+}
+.two{
+    background-color: #FCF6BD;
+}
+.three{
+    background-color:#A9DEF9;
+}
+.four{
+    background-color:#E4C1F9;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(165, 225, 165);
+}
+button{
+    width:80px;
+    height:30px;
+    border:2px solid black;
+    border-radius:8px;
+    background-color: #ff6b6c;
+    color:white;
+}
